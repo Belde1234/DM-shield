@@ -1,0 +1,17 @@
+
+.dm-screen {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  height: 100%;
+}
+.dm-nav {
+  padding: 0.5rem;
+  border-right: 1px solid var(--color-border-light-2);
+}
+.dm-nav button {
+  width: 100%;
+  margin-bottom: 0.25rem;
+}
+.dm-content {
+  padding: 1rem;
+}
