@@ -37,7 +37,7 @@ Built for **Foundry v11–v12** and compatible with **The Forge**.
 2. Go to **Add-on Modules → Install Module**
 3. Paste the following Manifest URL:
 
-https://raw.githubusercontent.com/BryanElde/dm-screen-plus/main/module.json
+https://raw.githubusercontent.com/Belde1234/dm-screen-plus/main/module.json
 
 
 4. Click **Install**
