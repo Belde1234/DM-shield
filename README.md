@@ -37,7 +37,7 @@ Built for **Foundry v11–v12** and compatible with **The Forge**.
 2. Go to **Add-on Modules → Install Module**
 3. Paste the following Manifest URL:
 
-https://raw.githubusercontent.com/Belde1234/DM-shield/main/module.json
+https://github.com/Belde1234/DM-shield.git
 
 
 4. Click **Install**
