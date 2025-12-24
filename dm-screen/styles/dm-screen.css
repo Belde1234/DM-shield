@@ -15,3 +15,12 @@
 .dm-content {
   padding: 1rem;
 }
+.dmsp-tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.tab button {
+  padding: 6px 10px;
+}
