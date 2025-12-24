@@ -1,6 +1,6 @@
 {
-  "id": "dm-screen-plus",
-  "title": "DM Screen Plus",
+  "id": "dm-shield",
+  "title": "DM Shield",
   "description": "A Forge-safe, UI-first DM screen with NPC generation and spell tracking tools.",
   "version": "0.4.1",
   "authors": [
@@ -17,7 +17,7 @@
     "styles/style.css"
   ],
 
-  "url": "https://github.com/Belde1234/dm-screen-plus",
-  "manifest": "https://raw.githubusercontent.com/Belde1234/dm-screen-plus/main/module.json",
-  "download": "https://github.com/Belde1234/dm-screen-plus/releases/download/v0.4.1/dm-screen-plus-v0.4.1.zip"
+  "url": "https://github.com/Belde1234/DM-shield",
+  "manifest": "https://raw.githubusercontent.com/Belde1234/DM-shield/main/module.json",
+  "download": "https://github.com/Belde1234/DM-shield/releases/download/v0.4.1/dm-shield-v0.4.1.zip"
 }
