@@ -12,5 +12,5 @@
   "styles": ["styles/style.css"],
 
   "url": "https://github.com/Belde1234/DM-shield",
-  "manifest": "https://raw.githubusercontent.com/Belde1234/DM-shield/main/dm-screen/module.json"
+  "manifest": "https://raw.githubusercontent.com/Belde1234/DM-shield/main/module.json"
 }
